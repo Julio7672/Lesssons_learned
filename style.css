@@ -1,0 +1,55 @@
+.cabecalho{
+    margin-top: -8px;
+    margin-left: -8px;
+    margin-right: -8px;
+    top: 0%;
+    display: grid;
+    height: 180px;
+    background-color:#175e02;
+}
+.cabecalho h1{
+         text-align: center;
+         margin: 0%;
+         margin-top: -70px;
+        color: aliceblue;
+        
+}
+.main img{
+    margin-top: 3%;
+    border: 3px solid grey;
+    margin-left: 550px;
+  }
+
+.main p{
+    margin-left: 570px;
+}
+.licoes{
+    display: flex;
+    margin-left: 1110px;
+    margin-top: -362px;
+    
+  }
+
+.redes-sociais ul{
+    margin-left: 465px;
+    margin-top: -300px;
+}
+.rodape{
+    margin-bottom: -8px;
+    height: 190px;
+    margin-left: -8px;
+    margin-right: -8px;
+    width: 2000px;
+    margin-top: 420px;
+}
+.rodape aside{
+    
+    border: inset;
+    
+}
+.rodape article{
+   
+    border: inset;
+  
+}
+
